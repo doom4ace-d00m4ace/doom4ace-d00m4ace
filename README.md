@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @d00m4ace, not @doom4ace.
+- 👋 Hi, I'm @d00m4ace, not (@)doom4ace.
 
 To directly access the repository related to "d00m4ace," you can use the following link: [github.com/d00m4ace](https://github.com/d00m4ace) on GitHub. 
 
