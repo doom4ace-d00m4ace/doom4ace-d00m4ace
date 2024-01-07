@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @d00m4ace, not @doom4ace.
 
-To directly access the repository related to "d00m4ace," you can use the following link: [d00m4ace/2dmmorpg](https://github.com/d00m4ace) on GitHub. 
+To directly access the repository related to "d00m4ace," you can use the following link: [github.com/d00m4ace](https://github.com/d00m4ace) on GitHub. 
 
 This will take you to the specific repository for the project "Yet another 2d mmorpg in pure C," which is a comprehensive codebase for developing a 2D MMORPG.
 
